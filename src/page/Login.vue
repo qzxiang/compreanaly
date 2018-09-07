@@ -1,6 +1,6 @@
 <template>
   <div class="login-wrap">
-    <div class="ms-title">移动应用综合分析工具软件v2.0</div>
+    <div class="ms-title">tools</div>
     <div class="ms-login">
       <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="0px" size="mini">
         <el-form-item prop="username">
